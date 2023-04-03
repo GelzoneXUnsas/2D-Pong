@@ -54,7 +54,7 @@ In a Pong video game, the ball moves continuously in a straight line across the 
 #### Trail Rendering
 I also used the Trail Renderer component to add trail path to the ball. By using this component, I adjusted the trail's length, width, color, etc to make the trail follow the ball's movement. In the script controlling the ball's movement, add a line to activate the trail renderer when the game starts and another line to deactivate it when the game ends.
 
-![Game Preview](/images/games/bggameplay.png)
+![Game Preview](https://gelzonexunsas.github.io/images/games/bggameplay.png)
 
 #### Post-Processing
 One thing new about this project to me was using the unity build-in post-processing layer/volume. Using the Post Processing Volume and Post Processing Layer in Unity have been an exciting experience. The Post Processing Volume allows me to apply a set of post-processing effects to a specific area of each scene, while the Post Processing Layer component allows me to prioritize the order in which these effects are applied. 
@@ -62,4 +62,4 @@ You may have noticed the immediate impact of these effects on the overall look a
 
 |Before|After|
 |:-:|:-:|
-![](/images/games/bgbefore.png) | ![](/images/games/bgafter.png)
+![](https://gelzonexunsas.github.io/images/games/bgbefore.png) | ![](https://gelzonexunsas.github.io/images/games/bgafter.png)
